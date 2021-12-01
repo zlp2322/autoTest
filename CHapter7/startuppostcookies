@@ -1,6 +1,7 @@
 [
   {
     "description": "这是一个需要携带cookie的post请求",
+    "request": {
     "uri": "/post/with/cookies",
     "method": "post",
     "cookie": {
@@ -9,12 +10,12 @@
     "json": {
       "name": "huhansan",
       "age": "18"
-    },
+    }},
     "response": {
       "status": 200,
       "json": {
         "huhansan": "success",
-        "code": 1
+        "status": 1
       }
     }
   }

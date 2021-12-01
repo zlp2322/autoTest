@@ -1,13 +1,15 @@
 [
   {
-    "description": "这是带cookies的get请求",
-    "uri": "/get/with/cookies",
-    "method": "get",
-    "cookies": {
-      "login": "true"
+    "description":"这是带cookies的get请求",
+    "request": {
+      "uri": "/getwith/cookies",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
     },
-    "response": {
-      "text": "这是一个需要携带cookies信息才能访问的get请求"
+    "response":{
+      "text":"这是一个需要携带cookies信息才能访问的get请求"
     }
   }
 ]

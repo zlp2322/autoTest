@@ -1,0 +1,21 @@
+[
+  {
+    "description": "这是一个需要携带cookie的post请求",
+    "uri": "/post/with/cookies",
+    "method": "post",
+    "cookie": {
+      "login": "true"
+    },
+    "json": {
+      "name": "huhansan",
+      "age": "18"
+    },
+    "response": {
+      "status": 200,
+      "json": {
+        "huhansan": "success",
+        "code": 1
+      }
+    }
+  }
+]

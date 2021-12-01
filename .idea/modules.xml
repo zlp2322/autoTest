@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHapter7/CHapter7.iml" filepath="$PROJECT_DIR$/CHapter7/CHapter7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter8/Chapter8.iml" filepath="$PROJECT_DIR$/Chapter8/Chapter8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter9/Chapter9.iml" filepath="$PROJECT_DIR$/Chapter9/Chapter9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/autoTest.iml" filepath="$PROJECT_DIR$/.idea/autoTest.iml" />

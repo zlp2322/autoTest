@@ -1,10 +1,14 @@
 [
   {
-    "description":"这是我们第一mock例子",
+    "description":"这是我们的第一个mock例子",
     "request":{
-    "uri": "/demo"},
-    "response": {
-      "text": "success"
+      "uri":"/demo"
+    },
+    "response":{
+      "text":"第一个moco框架demo"
     }
+
   }
+
+
 ]

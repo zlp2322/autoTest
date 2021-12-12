@@ -26,7 +26,7 @@
       }
     },
     "response":{
-      "text":"这是一个需要携带cookies信息才能访问的get请求"
+      "text":"this is need cookies getrequest"
     }
   },
   {
